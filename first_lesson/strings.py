@@ -1,5 +1,5 @@
 mystring = 'this is a string'
 print(mystring)
-mystring = "this is a string with"
+mystring = "Don't worry this is a string"
 print(mystring)
 print(7)
