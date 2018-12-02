@@ -1,4 +1,3 @@
-
 mystring = 'hello'
 myfloat = float(10.2)
 myint = 21
@@ -18,3 +17,6 @@ if isinstance(myint, int) and myint == 20:
     print("Integer: %d" % myint)
 if isinstance(myint, int) and myint != 20:
     print("Integer was not intended: %d" % myint)
+
+myfloat = float('6')
+print(myfloat)
